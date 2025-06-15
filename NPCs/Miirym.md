@@ -1,0 +1,3 @@
+Miirym is a bit eccentric. she is constantly distracted by the books and debris coming and going from the library…he calls it ‘the Infinite Library’. 
+
+Miirym has been here for an unknown amount of time. She is an immortal, and has lost track of time over the years. Miirym would very much love to get back to her home at Candlekeep though. But she’s not sure how…
