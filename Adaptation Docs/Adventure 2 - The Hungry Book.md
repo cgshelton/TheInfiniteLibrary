@@ -1,0 +1,3 @@
+The next adventure starts after the party returns to the Infinite Library. When the party is ready, Miirym will bring them a book bound in wolf fur, she claims she heard some rumbling sounds coming from the book…almost like it was hungry or something. 
+
+When the party opens the book, a couple bones fall to the floor, seemingly out of nowhere. When someone reads it…it animates and attacks them, hopefully killing the party pretty quickly and swallowing them. When a party member is eaten, they arrive in the adventure…

@@ -25,14 +25,10 @@
             "id": "6f544ffac2f21566",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
@@ -109,7 +105,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks"
             }
           },
           {
@@ -128,12 +123,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from README"
+              "title": "Outgoing links"
             }
           },
           {
@@ -157,13 +151,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline"
             }
           }
         ]
@@ -185,12 +178,15 @@
   },
   "active": "6f544ffac2f21566",
   "lastOpenFiles": [
+    "Adaptation Docs/Adventure 2 - The Hungry Book.md",
     "NPCs/Miirym.md",
-    "Adaptation Docs/Adventure 1 - Fistandia's Mansion.md",
+    "NPCs/The Infinite Library.md",
+    "Adaptation Docs/_Bookend Story.md",
     "Adaptation Docs/_Campaign Intro.md",
+    "README.md",
+    "Adaptation Docs/Adventure 1 - Fistandia's Mansion.md",
     "Session Notes/NPCs.md",
     "NPCs",
-    "README.md",
     "Session Notes",
     "Adaptation Docs"
   ]
