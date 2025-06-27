@@ -8,31 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "de980bab52d77158",
+            "id": "6f544ffac2f21566",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Adaptation Docs/Adventure 1 - Fistandia's Mansion.md",
+                "file": "NPCs & Locations/Amberdune.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Adventure 1 - Fistandia's Mansion"
-            }
-          },
-          {
-            "id": "6f544ffac2f21566",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Amberdune"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -179,14 +168,15 @@
   "active": "6f544ffac2f21566",
   "lastOpenFiles": [
     "Adaptation Docs/Adventure 2 - The Hungry Book.md",
-    "NPCs/Miirym.md",
-    "NPCs/The Infinite Library.md",
     "Adaptation Docs/_Bookend Story.md",
+    "NPCs & Locations/Amberdune.md",
+    "NPCs & Locations/Miirym.md",
+    "NPCs & Locations/The Infinite Library.md",
     "Adaptation Docs/_Campaign Intro.md",
     "README.md",
     "Adaptation Docs/Adventure 1 - Fistandia's Mansion.md",
     "Session Notes/NPCs.md",
-    "NPCs",
+    "NPCs & Locations",
     "Session Notes",
     "Adaptation Docs"
   ]
