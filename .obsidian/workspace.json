@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs & Locations/Amberdune.md",
+                "file": "Adaptation Docs/_Bookend Story.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Amberdune"
+              "title": "_Bookend Story"
             }
           }
         ]
@@ -157,6 +157,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -167,13 +168,14 @@
   },
   "active": "6f544ffac2f21566",
   "lastOpenFiles": [
-    "Adaptation Docs/Adventure 2 - The Hungry Book.md",
+    "Adaptation Docs/_Campaign Intro.md",
     "Adaptation Docs/_Bookend Story.md",
+    "README.md",
+    "Adaptation Docs/Adventure 4 - The Firefly Cellar.md",
     "NPCs & Locations/Amberdune.md",
+    "Adaptation Docs/Adventure 2 - The Hungry Book.md",
     "NPCs & Locations/Miirym.md",
     "NPCs & Locations/The Infinite Library.md",
-    "Adaptation Docs/_Campaign Intro.md",
-    "README.md",
     "Adaptation Docs/Adventure 1 - Fistandia's Mansion.md",
     "Session Notes/NPCs.md",
     "NPCs & Locations",
