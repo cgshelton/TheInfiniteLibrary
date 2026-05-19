@@ -14,3 +14,5 @@ The lingering question:
 Why are the pieces of the stabilization mechanism hidden? Why was it broken in the first place? Maybe we end up changing the ending as I figure that out.**
 
 -Obviously we need to figure out what is going on with the other folks that went into the first book, and I need to work on tying together the subsequent adventures. 
+
+
