@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Meta Adventure/The Portal.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Portal"
+              "title": "README"
             }
           }
         ]
@@ -168,10 +168,10 @@
   },
   "active": "057950a6ab9ab552",
   "lastOpenFiles": [
+    "Meta Adventure/The Portal.md",
     "Adventure Changes & Notes/Adventure 2/Adventure 2 - The Hungry Book.md",
     "Meta Adventure/Miirym.md",
     "Meta Adventure/The Infinite Library.md",
-    "Meta Adventure/The Portal.md",
     "Meta Adventure/_Campaign Intro.md",
     "Meta Adventure/_Bookend Story.md",
     "Meta Adventure/Imoryth.md",
